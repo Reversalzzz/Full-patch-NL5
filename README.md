@@ -9,6 +9,7 @@ Step 4. Enjoy your Limiter <3 -Reversalz. (All Filters/Rules are already set up 
 (If you don't play D2 on steam or D2 isn't installed on a SSD you will have to edit your "application is" location on each Filter, Limiting Guide Part 1 shows how!)
 
 
+
 For more info on adding Hotkeys, making new Filters/Rules, or to wanna figure out what you can do with a Limiter there will be links here:
 
 Limiting Guide Part 1: https://youtu.be/NgnVOJ2w4gI?si=_Oen6korVMc1rObX
