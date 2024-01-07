@@ -1,6 +1,4 @@
-Reversalz' Full patch bypass for NL5
-
-For support join https://discord.gg/WMh9bSgB 
+Reversalz' Full patch bypass for NL5 
 
 Manual:
 
@@ -14,6 +12,7 @@ Step 4. Enjoy your Limiter <3 -Reversalz. (All Filters/Rules are already set up 
 
 (If you don't play D2 on steam or D2 isn't installed on a SSD you will have to edit your "application is" location on each Filter, Limiting Guide Part 1 shows how!)
 
+
 Guides:
 
 Limiting Guide Part 1: https://youtu.be/NgnVOJ2w4gI?si=_Oen6korVMc1rObX
@@ -23,3 +22,6 @@ Limiting Guide Part 2: https://youtu.be/KHD-8mxNzig?si=QlNiieC5ao5MWcQ7
 NetLimiter Bible: https://docs.google.com/document/d/1CuFbJ4KlbSMqf22lVap2yiSMHxLWRJpiMO1eIIpgtJQ/edit
 
 7500 Horseman: https://youtu.be/_akrRnLoaeU?si=845UDUu9G9Jub0X4 
+
+
+For support join https://discord.gg/WMh9bSgB or https://discord.gg/9vgatQNs
