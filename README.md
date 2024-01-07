@@ -1,6 +1,4 @@
-Reversalz' Full patch for NL5
-
-Full patch bypass!
+Reversalz' Full patch bypass for NL5
 
 For support join https://discord.gg/WMh9bSgB 
 
