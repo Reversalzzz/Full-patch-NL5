@@ -1,3 +1,8 @@
+Reversalz' Full patch for NL5
+Full patch bypass 
+For support join https://discord.gg/WMh9bSgB 
+
+Manual:
 Step 1. Install NetLimiter by running the file "NetLimiter Installer!".
 
 Step 2. Run the "Patcher" file as admin which will open a cmd prompt, now spam any key until the cmd prompt closes, now the installation will be done for you. 
@@ -8,14 +13,9 @@ Step 4. Enjoy your Limiter <3 -Reversalz. (All Filters/Rules are already set up 
 
 (If you don't play D2 on steam or D2 isn't installed on a SSD you will have to edit your "application is" location on each Filter, Limiting Guide Part 1 shows how!)
 
-
-
-For more info on adding Hotkeys, making new Filters/Rules, or to wanna figure out what you can do with a Limiter there will be links here:
+Guides:
 
 Limiting Guide Part 1: https://youtu.be/NgnVOJ2w4gI?si=_Oen6korVMc1rObX
-
 Limiting Guide Part 2: https://youtu.be/KHD-8mxNzig?si=QlNiieC5ao5MWcQ7
-
 NetLimiter Bible: https://docs.google.com/document/d/1CuFbJ4KlbSMqf22lVap2yiSMHxLWRJpiMO1eIIpgtJQ/edit
-
-7500 Horseman: https://youtu.be/_akrRnLoaeU?si=845UDUu9G9Jub0X4
+7500 Horseman: https://youtu.be/_akrRnLoaeU?si=845UDUu9G9Jub0X4 
