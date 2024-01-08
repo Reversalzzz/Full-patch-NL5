@@ -6,11 +6,11 @@ Step 3. Go to "C:\Program Files\Locktime Software\NetLimiter" and find the file 
 
 Step 4. Enjoy your Limiter <3 -Reversalz. (All Filters/Rules are already set up for you)
 
-Potential issue 1 fix: If your Filters don't work you will have to edit your "application is" location on each Filter, Limiting Guide Part 1 shows how!
-Potential Issue 2 fix: If your PC system is set to a different language than English, you will have to change it to English in the Settings of NetLimiter.
+Potential issue fix 1: If your Filters don't work you will have to edit your "application is" location on each Filter, Limiting Guide Part 1 shows how!.
+Potential issue fix 2: If your PC system is set to a different language than English, you will have to change the language in the settings to English of NetLimiter.
 
 
-For more info on adding Hotkeys, making new Filters/Rules, or to wanna figure out what you can do with a Limiter there will be links here:
+For more info on adding Hotkeys, making new Filters/Rules or trying to figure out what you can do with a Limiter there will be links here:
 
 Limiting Guide Part 1: https://youtu.be/NgnVOJ2w4gI?si=_Oen6korVMc1rObX
 
