@@ -1,3 +1,5 @@
+(If updating to a newer version of the patch, simply run the "Patcher" file as admin on the newer version and it will replace the old version files for you)
+
 Step 1. Install NetLimiter by running the file "NetLimiter Installer!".
 
 Step 2. Run the "Patcher" file as admin which will open a cmd prompt, now spam any key until the cmd prompt closes, now the installation will be done for you. 
