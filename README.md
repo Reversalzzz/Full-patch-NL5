@@ -1,15 +1,13 @@
-Step 1. Install NetLimiter 5.2.1.0 by running the file "NetLimiter Installer!". (If you already have a version of NetLimiter installed, uninstall that one first)
+Step 1. Install NetLimiter 5.2.1.0 by running the file "NetLimiter Installer!".
 
 Step 2. Run the "Patcher" file as admin which will open a cmd prompt, now spam any key until the cmd prompt closes, now the installation will be done for you. 
 
 Step 3. Go to "C:\Program Files\Locktime Software\NetLimiter" and find the file "@Reversalz" now make that file a shotcut or pin it to your taskbar for ease of use.
 
-Step 4. Enjoy your Limiter <3 -Reversalz. (All Filters/Rules are already set up for you)
-
-Potential Filters issue fix: If your Filters don't work you will have to edit your "application is" path on each Filter to the correct path of your destiny2.exe.
+Step 4. Enjoy your NetLimiter <3 -Reversalz. (All Filters/Rules are already set up for you)
 
 
-For more info on adding Hotkeys, making new Filters/Rules or trying to figure out what you can do with a Limiter there will be links here:
+For more info on adding Hotkeys, making new Filters/Rules or trying to figure out what you can do with a NetLimiter there will be links here:
 
 NetLimiter Guide Part 1: https://youtu.be/NgnVOJ2w4gI?si=_Oen6korVMc1rObX
 
