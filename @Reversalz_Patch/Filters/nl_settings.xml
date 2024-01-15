@@ -1,0 +1,2042 @@
+﻿<NLSvcSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="nlsettings">
+  <ApiAccessList xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <AppInfos>
+    <AppInfo>
+      <AppId>
+        <Path>C:\users\cmm20\appdata\local\discord\app-1.0.9013\discord.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Discord Inc.</CompanyName>
+      <FileDescription>Discord</FileDescription>
+      <FileVersion>1.0.9013</FileVersion>
+      <ProductName>Discord</ProductName>
+      <ProductVersion>1.0.9013</ProductVersion>
+      <SysCreated>2023-05-03T18:15:21.5335078Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo i:type="SvcAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQYAAAAAAAVQAAAAR6g6M1lvcjTNHnYz9l9GRLptX44=</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <ServiceDesc>DNS Client</ServiceDesc>
+      <ServiceName>Dnscache</ServiceName>
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\programdata\microsoft\windows defender\platform\4.18.2304.8-0\msmpeng.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Antimalware Service Executable</FileDescription>
+      <FileVersion>4.18.2304.8 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Microsoft® Windows® Operating System</ProductName>
+      <ProductVersion>4.18.2304.8</ProductVersion>
+      <SysCreated>2023-04-26T03:57:58.3505876Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\lghub\lghub_agent.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Logitech, Inc.</CompanyName>
+      <FileDescription>LGHUB Agent</FileDescription>
+      <FileVersion>2023.9.473951</FileVersion>
+      <ProductName>LGHUB Agent</ProductName>
+      <ProductVersion>2023.9.473951</ProductVersion>
+      <SysCreated>2023-10-25T15:25:30.0741761Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\users\cmm20\appdata\roaming\zoom\bin\zoom.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Zoom Video Communications, Inc.</CompanyName>
+      <FileDescription>Zoom Meetings</FileDescription>
+      <FileVersion>5,13,11,13434</FileVersion>
+      <ProductName>Zoom</ProductName>
+      <ProductVersion>5,13,11,13434</ProductVersion>
+      <SysCreated>2023-04-05T15:55:25.9103779Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\users\cmm20\appdata\local\programs\opera gx\opera.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Opera Software</CompanyName>
+      <FileDescription>Opera GX Internet Browser</FileDescription>
+      <FileVersion>97.0.4719.89</FileVersion>
+      <ProductName>Opera GX Internet Browser</ProductName>
+      <ProductVersion>97.0.4719.89</ProductVersion>
+      <SysCreated>2023-04-25T17:21:32.4220899Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files (x86)\steam\steam.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Valve Corporation</CompanyName>
+      <FileDescription>Steam</FileDescription>
+      <FileVersion>08.63.11.84</FileVersion>
+      <ProductName>Steam</ProductName>
+      <ProductVersion>01.00.00.02</ProductVersion>
+      <SysCreated>2024-01-13T00:58:56Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>System</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName i:nil="true" />
+      <FileDescription i:nil="true" />
+      <FileVersion i:nil="true" />
+      <ProductName i:nil="true" />
+      <ProductVersion i:nil="true" />
+      <SysCreated>1601-01-01T00:00:00Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo i:type="SvcAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQYAAAAAAAVQAAAAUHEAHfLoJTpYaURwEpbaok8r0hM=</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <ServiceDesc>SSDP Discovery</ServiceDesc>
+      <ServiceName>SSDPSRV</ServiceName>
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\windows\system32\werfault.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Windows Probleemrapportage</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Microsoft® Windows®-besturingssysteem</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:53.5958131Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo i:type="SvcAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQYAAAAAAAVQAAAAnuMMEaIVqZrGJrhXvmh92zNz5zA=</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <ServiceDesc>Device Setup Manager</ServiceDesc>
+      <ServiceName>DsmSvc</ServiceName>
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\windows\system32\smartscreen.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Windows Defender SmartScreen</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:35.5223934Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\windowsapps\microsoft.gamingservices_11.76.5001.0_x64__8wekyb3d8bbwe\gamingservices.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>GamingServices</FileDescription>
+      <FileVersion>10.0.22621.3457 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Microsoft Gaming Install Services</ProductName>
+      <ProductVersion>10.0.22621.3457</ProductVersion>
+      <SysCreated>2023-04-16T18:28:23.1174486Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files (x86)\steam\steamapps\common\destiny 2\destiny2launcher.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>BattlEye Innovations</CompanyName>
+      <FileDescription>BattlEye Launcher</FileDescription>
+      <FileVersion>1, 0, 0, 1</FileVersion>
+      <ProductName>BattlEye Launcher</ProductName>
+      <ProductVersion>1, 0, 0, 1</ProductVersion>
+      <SysCreated>2023-07-13T20:09:38.8511059Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files (x86)\common files\battleye\beservice.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName />
+      <FileDescription />
+      <FileVersion />
+      <ProductName />
+      <ProductVersion />
+      <SysCreated>2023-10-17T06:40:32.8558808Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo i:type="StoreAppInfo">
+      <AppId>
+        <Path>C:\program files\windowsapps\microsoft.xboxgamingoverlay_5.823.3261.0_x64__8wekyb3d8bbwe\gamebar.exe</Path>
+        <Sid>
+          <Bytes>AQgAAAAAAA8CAAAAS6kvZnrcC09FZBV6QCCQCCufO4CZNp8tuT1N9A==</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Xbox Game Bar</FileDescription>
+      <FileVersion>5.823.03261.0</FileVersion>
+      <ProductName>Xbox Game Bar</ProductName>
+      <ProductVersion>5.823.03261.0</ProductVersion>
+      <SysCreated>2023-04-11T07:21:41.4928734Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <IconPath>Assets\GameBar_AppList.png</IconPath>
+      <PackageDisplayName>Xbox Game Bar</PackageDisplayName>
+      <PackageFolder>C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.823.3261.0_x64__8wekyb3d8bbwe</PackageFolder>
+      <PackageId>Microsoft.XboxGamingOverlay_5.823.3261.0_x64__8wekyb3d8bbwe</PackageId>
+      <PackageName>Microsoft.XboxGamingOverlay</PackageName>
+      <PackagePublisher>Microsoft Corporation</PackagePublisher>
+      <PackageVersion>5.823.3261.0</PackageVersion>
+    </AppInfo>
+    <AppInfo i:type="SvcAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQYAAAAAAAVQAAAARwH/r92MP4a8N27LGhWzoWvIjC4=</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <ServiceDesc>Microsoft Account Sign-in Assistant</ServiceDesc>
+      <ServiceName>wlidsvc</ServiceName>
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files (x86)\steam\bin\cef\cef.win7x64\steamwebhelper.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Valve Corporation</CompanyName>
+      <FileDescription>Steam Client WebHelper</FileDescription>
+      <FileVersion>08.63.11.84</FileVersion>
+      <ProductName>Steam Client WebHelper</ProductName>
+      <ProductVersion>01.00.00.01</ProductVersion>
+      <SysCreated>2024-01-13T00:59:00Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\windows\system32\gamebarpresencewriter.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Gamebar Presence Writer</FileDescription>
+      <FileVersion>10.0.22621.1 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Microsoft® Windows® Operating System</ProductName>
+      <ProductVersion>10.0.22621.1</ProductVersion>
+      <SysCreated>2022-05-07T05:20:01.5428951Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files (x86)\steam\steamapps\common\destiny 2\destiny2.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Bungie</CompanyName>
+      <FileDescription>Destiny 2</FileDescription>
+      <FileVersion>124517.23.12.13.1741.v500_live.main</FileVersion>
+      <ProductName>Destiny 2</ProductName>
+      <ProductVersion>124517.23.12.13.1741.v500_live.main</ProductVersion>
+      <SysCreated>2023-12-20T17:20:53.5168508Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\locktime software\netlimiter\exin.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName />
+      <FileDescription />
+      <FileVersion />
+      <ProductName />
+      <ProductVersion />
+      <SysCreated>2023-05-09T00:18:07.0825986Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo i:type="StoreAppInfo">
+      <AppId>
+        <Path>C:\windows\systemapps\microsoftwindows.client.cbs_cw5n1h2txyewy\searchhost.exe</Path>
+        <Sid>
+          <Bytes>AQgAAAAAAA8CAAAAJarkEOpewb2q2mlmN8/LLBhpGNOhhNGJC1MpyQ==</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription />
+      <FileVersion>623.3900.50.0</FileVersion>
+      <ProductName>Microsoft® Windows® Operating System</ProductName>
+      <ProductVersion>623.3900.50.0</ProductVersion>
+      <SysCreated>2023-04-13T21:12:56.7598968Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <IconPath>Assets\Square44x44Logo.png</IconPath>
+      <PackageDisplayName>ms-resource:ProductPkgDisplayName</PackageDisplayName>
+      <PackageFolder>C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy</PackageFolder>
+      <PackageId>MicrosoftWindows.Client.CBS_1000.22640.1000.0_x64__cw5n1h2txyewy</PackageId>
+      <PackageName>MicrosoftWindows.Client.CBS</PackageName>
+      <PackagePublisher>ms-resource:ProductPublisherDisplayName</PackagePublisher>
+      <PackageVersion>1000.22640.1000.0</PackageVersion>
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>c:\program files\nvidia corporation\nvcontainer\nvcontainer.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName />
+      <FileDescription />
+      <FileVersion />
+      <ProductName />
+      <ProductVersion />
+      <SysCreated>2023-12-16T20:10:40.5183094Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>c:\users\syvux\appdata\local\programs\opera gx\opera.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Opera Software</CompanyName>
+      <FileDescription>Opera GX Internet Browser</FileDescription>
+      <FileVersion>105.0.4970.76</FileVersion>
+      <ProductName>Opera GX Internet Browser</ProductName>
+      <ProductVersion>105.0.4970.76</ProductVersion>
+      <SysCreated>2024-01-08T15:10:20.6136356Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\users\syvux\appdata\local\discordptb\app-1.0.1051\discordptb.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Discord Inc.</CompanyName>
+      <FileDescription>Discord PTB</FileDescription>
+      <FileVersion>1.0.1051</FileVersion>
+      <ProductName>Discord PTB</ProductName>
+      <ProductVersion>1.0.1051</ProductVersion>
+      <SysCreated>2023-12-21T20:42:39.0805981Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\windowsapps\microsoft.desktopappinstaller_1.21.3482.0_x64__8wekyb3d8bbwe\windowspackagemanagerserver.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>WindowsPackageManagerServer.exe</FileDescription>
+      <FileVersion>1.21.2312.14002</FileVersion>
+      <ProductName>Microsoft Appx Click Handler</ProductName>
+      <ProductVersion>1.21.231214002-v1.21WPMv1.6</ProductVersion>
+      <SysCreated>2023-12-23T21:33:42.6784892Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\steelseries\gg\steelseriesgg.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>SteelSeries ApS</CompanyName>
+      <FileDescription>SteelSeries GG</FileDescription>
+      <FileVersion>54.0.0.0</FileVersion>
+      <ProductName>SteelSeries GG</ProductName>
+      <ProductVersion>54.0.0.0</ProductVersion>
+      <SysCreated>2024-01-08T08:53:12Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\steelseries\gg\apps\engine\steelseriesengine.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>SteelSeries ApS</CompanyName>
+      <FileDescription>SteelSeries GG Core</FileDescription>
+      <FileVersion>54.0.0.0</FileVersion>
+      <ProductName>SteelSeries GG</ProductName>
+      <ProductVersion>54.0.0.0</ProductVersion>
+      <SysCreated>2024-01-08T08:53:06Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\steelseries\gg\apps\engine\prism\steelseriesprism.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>SteelSeries ApS</CompanyName>
+      <FileDescription>SteelSeries Prism</FileDescription>
+      <FileVersion>3.0.0.0</FileVersion>
+      <ProductName>SteelSeries Prism</ProductName>
+      <ProductVersion>3.0.0.0</ProductVersion>
+      <SysCreated>2024-01-08T08:52:14Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\users\syvux\appdata\local\discord\app-1.0.9028\discord.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Discord Inc.</CompanyName>
+      <FileDescription>Discord</FileDescription>
+      <FileVersion>1.0.9028</FileVersion>
+      <ProductName>Discord</ProductName>
+      <ProductVersion>1.0.9028</ProductVersion>
+      <SysCreated>2023-12-19T18:53:22.5812364Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files (x86)\asus\armourydevice\dll\acpowernotification\acpowernotification.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>ASUS</CompanyName>
+      <FileDescription>AcPowerNotification</FileDescription>
+      <FileVersion>1.0.7.6</FileVersion>
+      <ProductName>AcPowerNotification</ProductName>
+      <ProductVersion>1.0.7.6</ProductVersion>
+      <SysCreated>2023-07-29T01:36:28.3941651Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files (x86)\asus\armourydevice\asus_framework.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>ASUSTek Computer Inc.</CompanyName>
+      <FileDescription>ASUS NodeJS Web Framework</FileDescription>
+      <FileVersion>4.0.0.9</FileVersion>
+      <ProductName>ASUS NodeJS Web Framework</ProductName>
+      <ProductVersion>4.0.0.9</ProductVersion>
+      <SysCreated>2023-07-29T01:36:01.3838277Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\asus\armoury crate lite service\armourycrate.service.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>ASUSTeK COMPUTER INC.</CompanyName>
+      <FileDescription>ARMOURY CRATE Service</FileDescription>
+      <FileVersion>5.6.5.0</FileVersion>
+      <ProductName>ARMOURY CRATE Service</ProductName>
+      <ProductVersion>5.6.5.0</ProductVersion>
+      <SysCreated>2023-06-07T11:38:46Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\asus\armoury crate lite service\armourycrate.usersessionhelper.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>ASUSTeK COMPUTER INC.</CompanyName>
+      <FileDescription>ARMOURY CRATE User Session Helper</FileDescription>
+      <FileVersion>5.6.5.0</FileVersion>
+      <ProductName>ARMOURY CRATE Service</ProductName>
+      <ProductVersion>5.6.5.0</ProductVersion>
+      <SysCreated>2023-06-07T11:38:50Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\nvidia corporation\nvidia geforce experience\nvidia share.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>NVIDIA Corporation</CompanyName>
+      <FileDescription>NVIDIA Share</FileDescription>
+      <FileVersion>73.3683.1933.5</FileVersion>
+      <ProductName>NVIDIA Share</ProductName>
+      <ProductVersion>rel_03_27/472473e</ProductVersion>
+      <SysCreated>2023-12-16T20:10:44.9207862Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files (x86)\nvidia corporation\nvnode\nvidia web helper.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Node.js</CompanyName>
+      <FileDescription>NVIDIA Web Helper Service</FileDescription>
+      <FileVersion>11.13.0</FileVersion>
+      <ProductName>Node.js</ProductName>
+      <ProductVersion>11.13.0</ProductVersion>
+      <SysCreated>2023-12-16T20:10:43.1340234Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo i:type="StoreAppInfo">
+      <AppId>
+        <Path>C:\windows\systemapps\microsoft.windows.search_cw5n1h2txyewy\searchapp.exe</Path>
+        <Sid>
+          <Bytes>AQgAAAAAAA8CAAAAPObzH4ougip1qIo/GyjtvzmPQRQM/Dl1XTUKYA==</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Search application</FileDescription>
+      <FileVersion>10.0.19041.3758 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Microsoft® Windows® Operating System</ProductName>
+      <ProductVersion>10.0.19041.3758</ProductVersion>
+      <SysCreated>2023-12-15T18:32:28.9663429Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <IconPath>Assets\Icons\AppListIcon.png</IconPath>
+      <PackageDisplayName>ms-resource:PackageDisplayName</PackageDisplayName>
+      <PackageFolder>C:\windows\systemapps\microsoft.windows.search_cw5n1h2txyewy</PackageFolder>
+      <PackageId>Microsoft.Windows.Search_1.14.10.19041_neutral_neutral_cw5n1h2txyewy</PackageId>
+      <PackageName>Microsoft.Windows.Search</PackageName>
+      <PackagePublisher>Microsoft Corporation</PackagePublisher>
+      <PackageVersion>1.14.10.19041</PackageVersion>
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\users\syvux\appdata\local\microsoft\onedrive\23.246.1127.0002\filecoauth.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Microsoft OneDriveFile Co-Authoring Executable</FileDescription>
+      <FileVersion>23.246.1127.0002</FileVersion>
+      <ProductName>Microsoft OneDrive</ProductName>
+      <ProductVersion>23.246.1127.0002</ProductVersion>
+      <SysCreated>2023-12-14T16:02:30.8090106Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files (x86)\microsoft\edge\application\msedge.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Microsoft Edge</FileDescription>
+      <FileVersion>120.0.2210.133</FileVersion>
+      <ProductName>Microsoft Edge</ProductName>
+      <ProductVersion>120.0.2210.133</ProductVersion>
+      <SysCreated>2024-01-11T07:10:00.1664228Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo i:type="SvcAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQYAAAAAAAVQAAAAESeRc7ttoPWsEmXVXDjXymE+DJ4=</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <ServiceDesc>Systeemservice voor Windows Push Notifications</ServiceDesc>
+      <ServiceName>WpnService</ServiceName>
+    </AppInfo>
+    <AppInfo i:type="SvcAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQYAAAAAAAVQAAAAQyfSr51h51ajrxrvOlvSVcopX8w=</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <ServiceDesc>Windows PushToInstall-service</ServiceDesc>
+      <ServiceName>PushToInstall</ServiceName>
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\lghub\lghub_updater.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Logitech, Inc.</CompanyName>
+      <FileDescription>LGHUB Updater</FileDescription>
+      <FileVersion>2023.9.473951</FileVersion>
+      <ProductName>LGHUB Updater</ProductName>
+      <ProductVersion>2023.9.473951</ProductVersion>
+      <SysCreated>2023-10-25T15:25:30.0884634Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\lghub\system_tray\lghub_system_tray.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Logitech, Inc.</CompanyName>
+      <FileDescription>G HUB</FileDescription>
+      <FileVersion>2023.9.473951</FileVersion>
+      <ProductName>G HUB</ProductName>
+      <ProductVersion>2023.9.473951</ProductVersion>
+      <SysCreated>2023-10-25T15:25:30.2247571Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\users\syvux\appdata\local\programs\opera gx\105.0.4970.74\opera_autoupdate.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Opera Software</CompanyName>
+      <FileDescription>Opera GX auto-updater</FileDescription>
+      <FileVersion>105.0.4970.74</FileVersion>
+      <ProductName>Opera GX auto-updater</ProductName>
+      <ProductVersion>105.0.4970.74</ProductVersion>
+      <SysCreated>2024-01-04T14:07:16.801505Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo i:type="SvcAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQYAAAAAAAVQAAAA2JKNM8teEAgZjAy4ACpWZr0fkPw=</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <ServiceDesc>Background Intelligent Transfer Service</ServiceDesc>
+      <ServiceName>BITS</ServiceName>
+    </AppInfo>
+    <AppInfo i:type="StoreAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\backgroundtaskhost.exe</Path>
+        <Sid>
+          <Bytes>AQgAAAAAAA8CAAAAPObzH4ougip1qIo/GyjtvzmPQRQM/Dl1XTUKYA==</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Background Task Host</FileDescription>
+      <FileVersion>10.0.19041.3636 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Microsoft® Windows® Operating System</ProductName>
+      <ProductVersion>10.0.19041.3636</ProductVersion>
+      <SysCreated>2023-11-16T13:55:37.3946748Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <IconPath>Assets\Icons\AppListIcon.png</IconPath>
+      <PackageDisplayName>ms-resource:PackageDisplayName</PackageDisplayName>
+      <PackageFolder>C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy</PackageFolder>
+      <PackageId>Microsoft.Windows.Search_1.14.10.19041_neutral_neutral_cw5n1h2txyewy</PackageId>
+      <PackageName>Microsoft.Windows.Search</PackageName>
+      <PackagePublisher>Microsoft Corporation</PackagePublisher>
+      <PackageVersion>1.14.10.19041</PackageVersion>
+    </AppInfo>
+    <AppInfo i:type="StoreAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQgAAAAAAA8CAAAAPObzH4ougip1qIo/GyjtvzmPQRQM/Dl1XTUKYA==</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <IconPath>Assets\Icons\AppListIcon.png</IconPath>
+      <PackageDisplayName>ms-resource:PackageDisplayName</PackageDisplayName>
+      <PackageFolder>C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy</PackageFolder>
+      <PackageId>Microsoft.Windows.Search_1.14.10.19041_neutral_neutral_cw5n1h2txyewy</PackageId>
+      <PackageName>Microsoft.Windows.Search</PackageName>
+      <PackagePublisher>Microsoft Corporation</PackagePublisher>
+      <PackageVersion>1.14.10.19041</PackageVersion>
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\users\syvux\appdata\local\programs\opera gx\assistant\browser_assistant.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Opera Software</CompanyName>
+      <FileDescription>Opera GX Browser Assistant</FileDescription>
+      <FileVersion>73.0.3856.382</FileVersion>
+      <ProductName>Opera GX Browser Assistant</ProductName>
+      <ProductVersion>73.0.3856.382</ProductVersion>
+      <SysCreated>2024-01-04T14:07:19.6747486Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files (x86)\asus\armourydevice\dll\armourysocketserver\armourysocketserver.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>ASUS</CompanyName>
+      <FileDescription>ArmourySocketServer</FileDescription>
+      <FileVersion>0.0.15.19</FileVersion>
+      <ProductName>ArmourySocketServer</ProductName>
+      <ProductVersion>0.0.15.19</ProductVersion>
+      <SysCreated>2023-07-29T01:36:28.438205Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\windows\system32\asusupdatecheck.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName />
+      <FileDescription>AsusUpdateCheck_with_NoDriver</FileDescription>
+      <FileVersion>2.1.1.1</FileVersion>
+      <ProductName />
+      <ProductVersion>2.1.1.1</ProductVersion>
+      <SysCreated>2024-01-06T21:44:49.5646986Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\corsair\corsair icue5 software\cuellaccessservice.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Corsair Memory, Inc.</CompanyName>
+      <FileDescription>iCUE service for interaction with CorsairLLAccess driver</FileDescription>
+      <FileVersion>5.4.98</FileVersion>
+      <ProductName />
+      <ProductVersion>5.4.98</ProductVersion>
+      <SysCreated>2023-07-29T01:45:07.3631146Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\windows\system32\services.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Services en controller-app</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:54.1537384Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\asus\rog live service\rogliveservice.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>ASUSTek COMPUTER INC.</CompanyName>
+      <FileDescription>ROG Live Service</FileDescription>
+      <FileVersion>2.1.5.0</FileVersion>
+      <ProductName>ROG Live Service</ProductName>
+      <ProductVersion>2.1.5.0</ProductVersion>
+      <SysCreated>2023-07-25T15:31:24Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo i:type="SvcAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQYAAAAAAAVQAAAABMlEr5TZ0+Ur4bccF4SHE24a+mU=</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <ServiceDesc>DHCP Client</ServiceDesc>
+      <ServiceName>Dhcp</ServiceName>
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\users\syvux\appdata\local\microsoft\onedrive\onedrive.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Microsoft OneDrive</FileDescription>
+      <FileVersion>23.246.1127.0002</FileVersion>
+      <ProductName>Microsoft OneDrive</ProductName>
+      <ProductVersion>23.246.1127.0002</ProductVersion>
+      <SysCreated>2023-12-14T16:02:31.3464015Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\windows\explorer.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Windows Verkenner</FileDescription>
+      <FileVersion>10.0.19041.3758 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Microsoft® Windows®-besturingssysteem</ProductName>
+      <ProductVersion>10.0.19041.3758</ProductVersion>
+      <SysCreated>2023-12-15T18:32:06.0486365Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo i:type="SvcAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQYAAAAAAAVQAAAArTynzHOzAx6gSM9SZt9LaaBKg4Y=</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <ServiceDesc>Service Platform voor verbonden apparaten</ServiceDesc>
+      <ServiceName>CDPSvc</ServiceName>
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\steelseries\gg\cvgamesense\steelseriescvgamesense.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName />
+      <FileDescription />
+      <FileVersion />
+      <ProductName />
+      <ProductVersion />
+      <SysCreated>2023-12-11T14:39:36Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\txgameassistant\appmarket\qmemulatorservice.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Tencent</CompanyName>
+      <FileDescription>腾讯手游助手</FileDescription>
+      <FileVersion>3.71.3001.81</FileVersion>
+      <ProductName>腾讯手游助手</ProductName>
+      <ProductVersion>3,71,3001,81</ProductVersion>
+      <SysCreated>2023-09-21T10:01:06.2076374Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files (x86)\google\googleupdater\122.0.6217.0\updater.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Google LLC</CompanyName>
+      <FileDescription>GoogleUpdater (x86)</FileDescription>
+      <FileVersion>122.0.6217.0</FileVersion>
+      <ProductName>GoogleUpdater (x86)</ProductName>
+      <ProductVersion>122.0.6217.0</ProductVersion>
+      <SysCreated>2024-01-04T00:26:07.4375311Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\windows\system32\driverstore\filerepository\nv_dispig.inf_amd64_677da8a9230cea15\display.nvcontainer\nvdisplay.container.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName />
+      <FileDescription />
+      <FileVersion />
+      <ProductName />
+      <ProductVersion />
+      <SysCreated>2023-11-02T15:51:38.0984876Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\windowsapps\microsoft.yourphone_1.23102.126.0_x64__8wekyb3d8bbwe\phoneexperiencehost.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Microsoft Phone Link</FileDescription>
+      <FileVersion>1.23102.126.0</FileVersion>
+      <ProductName>Microsoft Phone Link</ProductName>
+      <ProductVersion>1.23102.126</ProductVersion>
+      <SysCreated>2023-12-13T23:18:29.4958136Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo i:type="StoreAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\backgroundtaskhost.exe</Path>
+        <Sid>
+          <Bytes>AQgAAAAAAA8CAAAAJarkEOpewb2q2mlmN8/LLBhpGNOhhNGJC1MpyQ==</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Background Task Host</FileDescription>
+      <FileVersion>10.0.19041.3636 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Microsoft® Windows® Operating System</ProductName>
+      <ProductVersion>10.0.19041.3636</ProductVersion>
+      <SysCreated>2023-11-16T13:55:37.3946748Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <IconPath>Assets\Square44x44Logo.png</IconPath>
+      <PackageDisplayName>ms-resource:ProductPkgDisplayName</PackageDisplayName>
+      <PackageFolder>C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy</PackageFolder>
+      <PackageId>MicrosoftWindows.Client.CBS_1000.19053.1000.0_x64__cw5n1h2txyewy</PackageId>
+      <PackageName>MicrosoftWindows.Client.CBS</PackageName>
+      <PackagePublisher>Microsoft Windows</PackagePublisher>
+      <PackageVersion>1000.19053.1000.0</PackageVersion>
+    </AppInfo>
+    <AppInfo i:type="StoreAppInfo">
+      <AppId>
+        <Path>C:\program files\windowsapps\microsoft.windowscommunicationsapps_16005.14326.21768.0_x64__8wekyb3d8bbwe\hxtsr.exe</Path>
+        <Sid>
+          <Bytes>AQgAAAAAAA8CAAAAp4AXmP4fZ4xtDOf6uJxAkVY/EtxysxsXkT09bw==</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Microsoft Outlook Communications</FileDescription>
+      <FileVersion>16.0.14326.21768</FileVersion>
+      <ProductName>Microsoft Office</ProductName>
+      <ProductVersion>16.0.14326.21768</ProductVersion>
+      <SysCreated>2023-12-13T23:18:18.4819933Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <IconPath>images\HxMailAppList.png</IconPath>
+      <PackageDisplayName>ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName</PackageDisplayName>
+      <PackageFolder>C:\program files\windowsapps\microsoft.windowscommunicationsapps_16005.14326.21768.0_x64__8wekyb3d8bbwe</PackageFolder>
+      <PackageId>microsoft.windowscommunicationsapps_16005.14326.21768.0_x64__8wekyb3d8bbwe</PackageId>
+      <PackageName>microsoft.windowscommunicationsapps</PackageName>
+      <PackagePublisher>Microsoft Corporation</PackagePublisher>
+      <PackageVersion>16005.14326.21768.0</PackageVersion>
+    </AppInfo>
+    <AppInfo i:type="StoreAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\backgroundtaskhost.exe</Path>
+        <Sid>
+          <Bytes>AQgAAAAAAA8CAAAAbbDZcb+syl3gENxBjeIjkGklUsuI/z6ogIM8sg==</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Background Task Host</FileDescription>
+      <FileVersion>10.0.19041.3636 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Microsoft® Windows® Operating System</ProductName>
+      <ProductVersion>10.0.19041.3636</ProductVersion>
+      <SysCreated>2023-11-16T13:55:37.3946748Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <IconPath>Assets\SmallLogo.png</IconPath>
+      <PackageDisplayName>ms-resource:PackageDisplayName</PackageDisplayName>
+      <PackageFolder>C:\Windows\SystemApps\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy</PackageFolder>
+      <PackageId>Microsoft.AAD.BrokerPlugin_1000.19041.3636.0_neutral_neutral_cw5n1h2txyewy</PackageId>
+      <PackageName>Microsoft.AAD.BrokerPlugin</PackageName>
+      <PackagePublisher>ms-resource:PublisherDisplayName</PackagePublisher>
+      <PackageVersion>1000.19041.3636.0</PackageVersion>
+    </AppInfo>
+    <AppInfo i:type="SvcAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQYAAAAAAAVQAAAAH102nEehbIGqODi+XDBoe9fvprg=</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <ServiceDesc>Connected User Experiences and Telemetry</ServiceDesc>
+      <ServiceName>DiagTrack</ServiceName>
+    </AppInfo>
+    <AppInfo i:type="SvcAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQYAAAAAAAVQAAAAmMJ3Dgq/uRBXD0SEpAD8vaMzrYQ=</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <ServiceDesc>Cryptographic Services</ServiceDesc>
+      <ServiceName>CryptSvc</ServiceName>
+    </AppInfo>
+    <AppInfo i:type="SvcAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQYAAAAAAAVQAAAARD5Bu0W6qHpsvZJo9K1kj9XmcOk=</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <ServiceDesc>Network Location Awareness</ServiceDesc>
+      <ServiceName>NlaSvc</ServiceName>
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\windows\system32\mousocoreworker.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>MoUSO Core Worker Process</FileDescription>
+      <FileVersion>10.0.19041.3803 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Microsoft® Windows® Operating System</ProductName>
+      <ProductVersion>10.0.19041.3803</ProductVersion>
+      <SysCreated>2023-12-15T18:32:15.6781253Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo i:type="SvcAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQYAAAAAAAVQAAAA+QhXDW3t72SCRRoHgAndda2ZoFM=</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <ServiceDesc>Update Orchestrator-service</ServiceDesc>
+      <ServiceName>UsoSvc</ServiceName>
+    </AppInfo>
+    <AppInfo i:type="SvcAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQYAAAAAAAVQAAAAHI9yPHPkOcW4C4HG0hg6ECzTjwU=</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <ServiceDesc>Windows Update</ServiceDesc>
+      <ServiceName>wuauserv</ServiceName>
+    </AppInfo>
+    <AppInfo i:type="SvcAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQYAAAAAAAVQAAAATfgZtrOnf+OTmhDuIF1Rq5s5uYI=</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <ServiceDesc>Delivery Optimization</ServiceDesc>
+      <ServiceName>DoSvc</ServiceName>
+    </AppInfo>
+    <AppInfo i:type="StoreAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\backgroundtaskhost.exe</Path>
+        <Sid>
+          <Bytes>AQgAAAAAAA8CAAAAC55CHRlqlaaKnOyc3tlz0bsbVvhjgaPLruYpEw==</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Background Task Host</FileDescription>
+      <FileVersion>10.0.19041.3636 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Microsoft® Windows® Operating System</ProductName>
+      <ProductVersion>10.0.19041.3636</ProductVersion>
+      <SysCreated>2023-11-16T13:55:37.3946748Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <IconPath>Images\AppIcon\Square44x44Logo.png</IconPath>
+      <PackageDisplayName>ARMOURY CRATE</PackageDisplayName>
+      <PackageFolder>C:\Program Files\WindowsApps\B9ECED6F.ArmouryCrate_5.7.9.0_x64__qmba6cd70vzyy</PackageFolder>
+      <PackageId>B9ECED6F.ArmouryCrate_5.7.9.0_x64__qmba6cd70vzyy</PackageId>
+      <PackageName>B9ECED6F.ArmouryCrate</PackageName>
+      <PackagePublisher>ASUSTeK COMPUTER INC.</PackagePublisher>
+      <PackageVersion>5.7.9.0</PackageVersion>
+    </AppInfo>
+    <AppInfo i:type="SvcAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQYAAAAAAAVQAAAAHCEkiMbuDSXHHF2bf+z0xYRux5g=</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <ServiceDesc>Microsoft Store-installatieservice</ServiceDesc>
+      <ServiceName>InstallService</ServiceName>
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\windows\system32\taskhostw.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-taken</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:56:02.64242Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\windowsapps\spotifyab.spotifymusic_1.226.1187.0_x64__zpdnekdrzrea0\spotify.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Spotify Ltd</CompanyName>
+      <FileDescription>Spotify</FileDescription>
+      <FileVersion>1.2.26.1187</FileVersion>
+      <ProductName>Spotify</ProductName>
+      <ProductVersion>1.2.26.1187</ProductVersion>
+      <SysCreated>2023-12-08T19:31:14.0141314Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\locktime software\netlimiter\nlsvc.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Locktime Software</CompanyName>
+      <FileDescription>NLSvc</FileDescription>
+      <FileVersion>5.2.1.0</FileVersion>
+      <ProductName>NetLimiter</ProductName>
+      <ProductVersion>5.2.1.0</ProductVersion>
+      <SysCreated>2023-02-20T17:32:32.1934703Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\users\syvux\appdata\local\discordptb\app-1.0.1052\discordptb.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Discord Inc.</CompanyName>
+      <FileDescription>Discord PTB</FileDescription>
+      <FileVersion>1.0.1052</FileVersion>
+      <ProductName>Discord PTB</ProductName>
+      <ProductVersion>1.0.1052</ProductVersion>
+      <SysCreated>2024-01-06T00:00:24.1906924Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\programdata\microsoft\windows defender\platform\4.18.23110.3-0\msmpeng.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Antimalware Service Executable</FileDescription>
+      <FileVersion>4.18.23110.3 (9ebb3643d539a6fc4659898b1df3124d5da4c0a9)</FileVersion>
+      <ProductName>Microsoft® Windows® Operating System</ProductName>
+      <ProductVersion>4.18.23110.3</ProductVersion>
+      <SysCreated>2023-12-06T21:01:31.8006767Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\programdata\microsoft\windows defender\platform\4.18.23110.3-0\mpcmdrun.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Microsoft Malware Protection Command Line Utility</FileDescription>
+      <FileVersion>4.18.23110.3 (9ebb3643d539a6fc4659898b1df3124d5da4c0a9)</FileVersion>
+      <ProductName>Microsoft® Windows® Operating System</ProductName>
+      <ProductVersion>4.18.23110.3</ProductVersion>
+      <SysCreated>2023-12-06T21:01:31.7946718Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo i:type="StoreAppInfo">
+      <AppId>
+        <Path>C:\windows\system32\svchost.exe</Path>
+        <Sid>
+          <Bytes>AQgAAAAAAA8CAAAAp4AXmP4fZ4xtDOf6uJxAkVY/EtxysxsXkT09bw==</Bytes>
+        </Sid>
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Hostproces voor Windows-services</FileDescription>
+      <FileVersion>10.0.19041.3691 (WinBuild.160101.0800)</FileVersion>
+      <ProductName>Besturingssysteem Microsoft® Windows®</ProductName>
+      <ProductVersion>10.0.19041.3691</ProductVersion>
+      <SysCreated>2023-11-16T13:55:52.4310061Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <IconPath>images\HxMailAppList.png</IconPath>
+      <PackageDisplayName>ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName</PackageDisplayName>
+      <PackageFolder>C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.21768.0_x64__8wekyb3d8bbwe</PackageFolder>
+      <PackageId>microsoft.windowscommunicationsapps_16005.14326.21768.0_x64__8wekyb3d8bbwe</PackageId>
+      <PackageName>microsoft.windowscommunicationsapps</PackageName>
+      <PackagePublisher>Microsoft Corporation</PackagePublisher>
+      <PackageVersion>16005.14326.21768.0</PackageVersion>
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\threepole\threepole.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName />
+      <FileDescription>threepole</FileDescription>
+      <FileVersion>1.1.1</FileVersion>
+      <ProductName>threepole</ProductName>
+      <ProductVersion>1.1.1</ProductVersion>
+      <SysCreated>2023-03-03T15:43:50Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\users\syvux\desktop\livesplit_1.8.26\livesplit.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>http://livesplit.org/</CompanyName>
+      <FileDescription>LiveSplit</FileDescription>
+      <FileVersion>1.0.0.0</FileVersion>
+      <ProductName>LiveSplit</ProductName>
+      <ProductVersion>1.0.0.0</ProductVersion>
+      <SysCreated>2023-08-05T20:52:28.5877647Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files (x86)\microsoft\edgewebview\application\120.0.2210.91\msedgewebview2.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Microsoft Edge WebView2</FileDescription>
+      <FileVersion>120.0.2210.91</FileVersion>
+      <ProductName>Microsoft Edge WebView2</ProductName>
+      <ProductVersion>120.0.2210.91</ProductVersion>
+      <SysCreated>2023-12-23T17:23:06.0000598Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files (x86)\steam\steamapps\common\game pauser by jase\game pauser by jase.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Made by Jase</CompanyName>
+      <FileDescription>Game Pauser by Jase</FileDescription>
+      <FileVersion>1.0.2.0</FileVersion>
+      <ProductName>Game Pauser by Jase</ProductName>
+      <ProductVersion>1.0.2.0</ProductVersion>
+      <SysCreated>2023-08-20T16:57:56.8503312Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files (x86)\ubisoft\ubisoft game launcher\upc.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Ubisoft</CompanyName>
+      <FileDescription>Ubisoft Connect</FileDescription>
+      <FileVersion>3.0</FileVersion>
+      <ProductName>Ubisoft Connect</ProductName>
+      <ProductVersion>146.1.10956</ProductVersion>
+      <SysCreated>2023-10-19T11:05:22.3276186Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\users\syvux\desktop\stopwatch\stopwatch.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Stopwatch</CompanyName>
+      <FileDescription>Stopwatch</FileDescription>
+      <FileVersion>1.0.0.0</FileVersion>
+      <ProductName>Stopwatch</ProductName>
+      <ProductVersion>1.0.0</ProductVersion>
+      <SysCreated>2023-12-18T14:50:22.8812853Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files (x86)\microsoft\edgeupdate\microsoftedgeupdate.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Microsoft Edge Update</FileDescription>
+      <FileVersion>1.3.147.37</FileVersion>
+      <ProductName>Microsoft Edge Update</ProductName>
+      <ProductVersion>1.3.147.37</ProductVersion>
+      <SysCreated>2021-08-05T22:41:46.431353Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\users\syvux\appdata\local\discord\app-1.0.9030\discord.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Discord Inc.</CompanyName>
+      <FileDescription>Discord</FileDescription>
+      <FileVersion>1.0.9030</FileVersion>
+      <ProductName>Discord</ProductName>
+      <ProductVersion>1.0.9030</ProductVersion>
+      <SysCreated>2024-01-09T20:36:00.8493419Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files\google\chrome\application\chrome.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Google LLC</CompanyName>
+      <FileDescription>Google Chrome</FileDescription>
+      <FileVersion>120.0.6099.217</FileVersion>
+      <ProductName>Google Chrome</ProductName>
+      <ProductVersion>120.0.6099.217</ProductVersion>
+      <SysCreated>2024-01-09T02:28:17.472207Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+    <AppInfo>
+      <AppId>
+        <Path>C:\program files (x86)\microsoft\edgewebview\application\120.0.2210.133\msedgewebview2.exe</Path>
+        <Sid i:nil="true" />
+      </AppId>
+      <CompanyName>Microsoft Corporation</CompanyName>
+      <FileDescription>Microsoft Edge WebView2</FileDescription>
+      <FileVersion>120.0.2210.133</FileVersion>
+      <ProductName>Microsoft Edge WebView2</ProductName>
+      <ProductVersion>120.0.2210.133</ProductVersion>
+      <SysCreated>2024-01-13T15:37:01.3734689Z</SysCreated>
+      <Tags xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+    </AppInfo>
+  </AppInfos>
+  <DefaultFwActionIn>Allow</DefaultFwActionIn>
+  <DefaultFwActionOut>Allow</DefaultFwActionOut>
+  <Filters>
+    <filter>
+      <Id>{cbe59154-31dc-4cfb-a12c-7fffb87ff400}</Id>
+      <Revision>0</Revision>
+      <BaseFilters xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <CreatedTime>2023-05-09T00:16:45.4606417Z</CreatedTime>
+      <FilterType>Zone</FilterType>
+      <FunctionList>
+        <function i:type="FFIsLocalNetworkTraffic">
+          <match>true</match>
+        </function>
+      </FunctionList>
+      <InternalId>1</InternalId>
+      <Name>LocalNetwork</Name>
+      <PerType>None</PerType>
+      <UpdatedTime>2023-05-09T00:16:45.4606417Z</UpdatedTime>
+    </filter>
+    <filter>
+      <Id>{2bc7c021-b058-45dc-b22f-73d8e10e3fef}</Id>
+      <Revision>0</Revision>
+      <BaseFilters xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <CreatedTime>2023-05-09T00:16:45.4606417Z</CreatedTime>
+      <FilterType>Zone</FilterType>
+      <FunctionList>
+        <function i:type="FFIsInternetTraffic">
+          <match>true</match>
+        </function>
+      </FunctionList>
+      <InternalId>2</InternalId>
+      <Name>Internet</Name>
+      <PerType>None</PerType>
+      <UpdatedTime>2023-05-09T00:16:45.4606417Z</UpdatedTime>
+    </filter>
+    <filter>
+      <Id>{c053e57e-d554-49cb-ac70-e0ce95302faa}</Id>
+      <Revision>0</Revision>
+      <BaseFilters xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <CreatedTime>2023-05-09T00:16:45.4606417Z</CreatedTime>
+      <FilterType>Filter</FilterType>
+      <FunctionList />
+      <InternalId>3</InternalId>
+      <Name>Any</Name>
+      <PerType>None</PerType>
+      <UpdatedTime>2023-05-09T00:16:45.4606417Z</UpdatedTime>
+    </filter>
+    <filter>
+      <Id>039A6E06-4A18-42C6-AEF3-9C77A960CE11</Id>
+      <Revision>0</Revision>
+      <BaseFilters xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <CreatedTime>2023-05-09T00:16:45.4626433Z</CreatedTime>
+      <FilterType>Filter</FilterType>
+      <FunctionList>
+        <function i:type="FFTagEqual">
+          <match>true</match>
+          <Values>
+            <value>
+              <tag>Ignore Traffic</tag>
+            </value>
+          </Values>
+        </function>
+      </FunctionList>
+      <InternalId>4</InternalId>
+      <Name>Ignore Traffic</Name>
+      <PerType>None</PerType>
+      <UpdatedTime>2023-05-09T00:16:45.4626433Z</UpdatedTime>
+    </filter>
+    <filter>
+      <Id>187C7C4F-4243-4CDF-A98C-9EA55199C196</Id>
+      <Revision>0</Revision>
+      <BaseFilters xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <CreatedTime>2023-05-09T00:16:45.4636445Z</CreatedTime>
+      <FilterType>Filter</FilterType>
+      <FunctionList>
+        <function i:type="FFTagEqual">
+          <match>true</match>
+          <Values>
+            <value>
+              <tag>Ignore Limits</tag>
+            </value>
+          </Values>
+        </function>
+      </FunctionList>
+      <InternalId>5</InternalId>
+      <Name>Ignore Limits</Name>
+      <PerType>None</PerType>
+      <UpdatedTime>2023-05-09T00:16:45.4636445Z</UpdatedTime>
+    </filter>
+    <filter i:type="StorePackageFilter">
+      <Id>f59084e9-1b08-482d-abc3-fb1559ff2894</Id>
+      <Revision>0</Revision>
+      <BaseFilters xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <CreatedTime>2023-05-09T00:23:01.0636062Z</CreatedTime>
+      <FilterType>Filter</FilterType>
+      <FunctionList>
+        <function i:type="FFAppIdEqual">
+          <match>true</match>
+          <Values>
+            <value>
+              <Path>null-path</Path>
+              <Sid>
+                <Bytes>AQgAAAAAAA8CAAAAS6kvZnrcC09FZBV6QCCQCCufO4CZNp8tuT1N9A==</Bytes>
+              </Sid>
+            </value>
+          </Values>
+        </function>
+      </FunctionList>
+      <InternalId>6</InternalId>
+      <Name>Microsoft.XboxGamingOverlay</Name>
+      <PerType>None</PerType>
+      <UpdatedTime>2023-05-09T00:23:01.0636062Z</UpdatedTime>
+      <Sid>
+        <Bytes>AQgAAAAAAA8CAAAAS6kvZnrcC09FZBV6QCCQCCufO4CZNp8tuT1N9A==</Bytes>
+      </Sid>
+      <DisplayName>Game Bar</DisplayName>
+      <IconPath>Assets\GameBar_AppList.png</IconPath>
+      <PackageFolder>C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_6.123.11012.0_x64__8wekyb3d8bbwe</PackageFolder>
+      <PackageId>Microsoft.XboxGamingOverlay_6.123.11012.0_x64__8wekyb3d8bbwe</PackageId>
+      <Publisher>Microsoft Corporation</Publisher>
+      <Version>6.123.11012.0</Version>
+    </filter>
+    <filter i:type="StorePackageFilter">
+      <Id>f2589a80-95f7-45ea-b55c-de2ed41ace93</Id>
+      <Revision>0</Revision>
+      <BaseFilters xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <CreatedTime>2023-05-09T00:27:57.6033144Z</CreatedTime>
+      <FilterType>Filter</FilterType>
+      <FunctionList>
+        <function i:type="FFAppIdEqual">
+          <match>true</match>
+          <Values>
+            <value>
+              <Path>null-path</Path>
+              <Sid>
+                <Bytes>AQgAAAAAAA8CAAAAJarkEOpewb2q2mlmN8/LLBhpGNOhhNGJC1MpyQ==</Bytes>
+              </Sid>
+            </value>
+          </Values>
+        </function>
+      </FunctionList>
+      <InternalId>7</InternalId>
+      <Name>MicrosoftWindows.Client.CBS</Name>
+      <PerType>None</PerType>
+      <UpdatedTime>2023-05-09T00:27:57.6033144Z</UpdatedTime>
+      <Sid>
+        <Bytes>AQgAAAAAAA8CAAAAJarkEOpewb2q2mlmN8/LLBhpGNOhhNGJC1MpyQ==</Bytes>
+      </Sid>
+      <DisplayName>ms-resource:ProductPkgDisplayName</DisplayName>
+      <IconPath>Assets\Square44x44Logo.png</IconPath>
+      <PackageFolder>C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy</PackageFolder>
+      <PackageId>MicrosoftWindows.Client.CBS_1000.19053.1000.0_x64__cw5n1h2txyewy</PackageId>
+      <Publisher>Microsoft Windows</Publisher>
+      <Version>1000.19053.1000.0</Version>
+    </filter>
+    <filter i:type="StorePackageFilter">
+      <Id>2cbed313-5276-4f40-9391-7bac04eba459</Id>
+      <Revision>0</Revision>
+      <BaseFilters xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <CreatedTime>2024-01-04T18:44:57.7927993Z</CreatedTime>
+      <FilterType>Filter</FilterType>
+      <FunctionList>
+        <function i:type="FFAppIdEqual">
+          <match>true</match>
+          <Values>
+            <value>
+              <Path>null-path</Path>
+              <Sid>
+                <Bytes>AQgAAAAAAA8CAAAAPObzH4ougip1qIo/GyjtvzmPQRQM/Dl1XTUKYA==</Bytes>
+              </Sid>
+            </value>
+          </Values>
+        </function>
+      </FunctionList>
+      <InternalId>8</InternalId>
+      <Name>Microsoft.Windows.Search</Name>
+      <PerType>None</PerType>
+      <UpdatedTime>2024-01-04T18:44:57.7927993Z</UpdatedTime>
+      <Sid>
+        <Bytes>AQgAAAAAAA8CAAAAPObzH4ougip1qIo/GyjtvzmPQRQM/Dl1XTUKYA==</Bytes>
+      </Sid>
+      <DisplayName>ms-resource:PackageDisplayName</DisplayName>
+      <IconPath>Assets\Icons\AppListIcon.png</IconPath>
+      <PackageFolder>C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy</PackageFolder>
+      <PackageId>Microsoft.Windows.Search_1.14.10.19041_neutral_neutral_cw5n1h2txyewy</PackageId>
+      <Publisher>Microsoft Corporation</Publisher>
+      <Version>1.14.10.19041</Version>
+    </filter>
+    <filter i:type="StorePackageFilter">
+      <Id>b35e7257-4544-4e2c-b7d2-ff968cd920b9</Id>
+      <Revision>0</Revision>
+      <BaseFilters xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <CreatedTime>2024-01-04T19:12:33.009107Z</CreatedTime>
+      <FilterType>Filter</FilterType>
+      <FunctionList>
+        <function i:type="FFAppIdEqual">
+          <match>true</match>
+          <Values>
+            <value>
+              <Path>null-path</Path>
+              <Sid>
+                <Bytes>AQgAAAAAAA8CAAAAp4AXmP4fZ4xtDOf6uJxAkVY/EtxysxsXkT09bw==</Bytes>
+              </Sid>
+            </value>
+          </Values>
+        </function>
+      </FunctionList>
+      <InternalId>9</InternalId>
+      <Name>microsoft.windowscommunicationsapps</Name>
+      <PerType>None</PerType>
+      <UpdatedTime>2024-01-04T19:12:33.009107Z</UpdatedTime>
+      <Sid>
+        <Bytes>AQgAAAAAAA8CAAAAp4AXmP4fZ4xtDOf6uJxAkVY/EtxysxsXkT09bw==</Bytes>
+      </Sid>
+      <DisplayName>ms-resource://microsoft.windowscommunicationsapps/hxoutlookintl/AppManifest_OutlookDesktop_DisplayName</DisplayName>
+      <IconPath>images\HxMailAppList.png</IconPath>
+      <PackageFolder>C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.21768.0_x64__8wekyb3d8bbwe</PackageFolder>
+      <PackageId>microsoft.windowscommunicationsapps_16005.14326.21768.0_x64__8wekyb3d8bbwe</PackageId>
+      <Publisher>Microsoft Corporation</Publisher>
+      <Version>16005.14326.21768.0</Version>
+    </filter>
+    <filter i:type="StorePackageFilter">
+      <Id>8797ee04-633b-44a4-af85-823da29058a9</Id>
+      <Revision>0</Revision>
+      <BaseFilters xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <CreatedTime>2024-01-04T19:12:33.2138915Z</CreatedTime>
+      <FilterType>Filter</FilterType>
+      <FunctionList>
+        <function i:type="FFAppIdEqual">
+          <match>true</match>
+          <Values>
+            <value>
+              <Path>null-path</Path>
+              <Sid>
+                <Bytes>AQgAAAAAAA8CAAAAbbDZcb+syl3gENxBjeIjkGklUsuI/z6ogIM8sg==</Bytes>
+              </Sid>
+            </value>
+          </Values>
+        </function>
+      </FunctionList>
+      <InternalId>10</InternalId>
+      <Name>Microsoft.AAD.BrokerPlugin</Name>
+      <PerType>None</PerType>
+      <UpdatedTime>2024-01-04T19:12:33.2138915Z</UpdatedTime>
+      <Sid>
+        <Bytes>AQgAAAAAAA8CAAAAbbDZcb+syl3gENxBjeIjkGklUsuI/z6ogIM8sg==</Bytes>
+      </Sid>
+      <DisplayName>ms-resource:PackageDisplayName</DisplayName>
+      <IconPath>Assets\SmallLogo.png</IconPath>
+      <PackageFolder>C:\Windows\SystemApps\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy</PackageFolder>
+      <PackageId>Microsoft.AAD.BrokerPlugin_1000.19041.3636.0_neutral_neutral_cw5n1h2txyewy</PackageId>
+      <Publisher>ms-resource:PublisherDisplayName</Publisher>
+      <Version>1000.19041.3636.0</Version>
+    </filter>
+    <filter i:type="StorePackageFilter">
+      <Id>d3353049-bb0c-4cf0-ad56-7d44642bdc2e</Id>
+      <Revision>0</Revision>
+      <BaseFilters xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <CreatedTime>2024-01-04T19:21:35.5425124Z</CreatedTime>
+      <FilterType>Filter</FilterType>
+      <FunctionList>
+        <function i:type="FFAppIdEqual">
+          <match>true</match>
+          <Values>
+            <value>
+              <Path>null-path</Path>
+              <Sid>
+                <Bytes>AQgAAAAAAA8CAAAAC55CHRlqlaaKnOyc3tlz0bsbVvhjgaPLruYpEw==</Bytes>
+              </Sid>
+            </value>
+          </Values>
+        </function>
+      </FunctionList>
+      <InternalId>11</InternalId>
+      <Name>B9ECED6F.ArmouryCrate</Name>
+      <PerType>None</PerType>
+      <UpdatedTime>2024-01-04T19:21:35.5425124Z</UpdatedTime>
+      <Sid>
+        <Bytes>AQgAAAAAAA8CAAAAC55CHRlqlaaKnOyc3tlz0bsbVvhjgaPLruYpEw==</Bytes>
+      </Sid>
+      <DisplayName>ARMOURY CRATE</DisplayName>
+      <IconPath>Images\AppIcon\Square44x44Logo.png</IconPath>
+      <PackageFolder>C:\Program Files\WindowsApps\B9ECED6F.ArmouryCrate_5.7.9.0_x64__qmba6cd70vzyy</PackageFolder>
+      <PackageId>B9ECED6F.ArmouryCrate_5.7.9.0_x64__qmba6cd70vzyy</PackageId>
+      <Publisher>ASUSTeK COMPUTER INC.</Publisher>
+      <Version>5.7.9.0</Version>
+    </filter>
+    <filter>
+      <Id>54ff67bb-2e55-488e-b6f0-c032a557984d</Id>
+      <Revision>0</Revision>
+      <BaseFilters xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <CreatedTime>2024-01-06T04:10:43.1397489Z</CreatedTime>
+      <FilterType>Filter</FilterType>
+      <FunctionList>
+        <function i:type="FFAppIdEqual">
+          <match>true</match>
+          <Values>
+            <value>
+              <Path>C:\program files (x86)\steam\steamapps\common\destiny 2\destiny2.exe</Path>
+              <Sid i:nil="true" />
+            </value>
+          </Values>
+        </function>
+        <function i:type="FFRemotePortInRange">
+          <match>true</match>
+          <Values>
+            <value>
+              <end>7509</end>
+              <start>7500</start>
+            </value>
+          </Values>
+        </function>
+      </FunctionList>
+      <InternalId>12</InternalId>
+      <Name>7500</Name>
+      <PerType>None</PerType>
+      <UpdatedTime>2024-01-06T04:10:43.1397489Z</UpdatedTime>
+    </filter>
+    <filter>
+      <Id>ba935cbf-7a91-489c-b95d-30725e79c39e</Id>
+      <Revision>0</Revision>
+      <BaseFilters xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <CreatedTime>2024-01-06T04:11:50.6623309Z</CreatedTime>
+      <FilterType>Filter</FilterType>
+      <FunctionList>
+        <function i:type="FFAppIdEqual">
+          <match>true</match>
+          <Values>
+            <value>
+              <Path>C:\program files (x86)\steam\steamapps\common\destiny 2\destiny2.exe</Path>
+              <Sid i:nil="true" />
+            </value>
+          </Values>
+        </function>
+        <function i:type="FFRemotePortInRange">
+          <match>true</match>
+          <Values>
+            <value>
+              <end>30009</end>
+              <start>30000</start>
+            </value>
+          </Values>
+        </function>
+      </FunctionList>
+      <InternalId>13</InternalId>
+      <Name>30K</Name>
+      <PerType>None</PerType>
+      <UpdatedTime>2024-01-06T04:11:50.6623309Z</UpdatedTime>
+    </filter>
+    <filter>
+      <Id>8552663c-6834-4b98-b784-2053f8559a8f</Id>
+      <Revision>1</Revision>
+      <BaseFilters xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <CreatedTime>2024-01-06T04:12:19.3429505Z</CreatedTime>
+      <FilterType>Filter</FilterType>
+      <FunctionList>
+        <function i:type="FFAppIdEqual">
+          <match>true</match>
+          <Values>
+            <value>
+              <Path>C:\program files (x86)\steam\steamapps\common\destiny 2\destiny2.exe</Path>
+              <Sid i:nil="true" />
+            </value>
+          </Values>
+        </function>
+        <function i:type="FFRemotePortInRange">
+          <match>true</match>
+          <Values>
+            <value>
+              <end>27200</end>
+              <start>27000</start>
+            </value>
+          </Values>
+        </function>
+      </FunctionList>
+      <InternalId>14</InternalId>
+      <Name>27K</Name>
+      <PerType>None</PerType>
+      <UpdatedTime>2024-01-07T03:11:04.6313138Z</UpdatedTime>
+    </filter>
+    <filter>
+      <Id>4480b2ca-86d1-4bcb-9f01-bcb09b371a17</Id>
+      <Revision>0</Revision>
+      <BaseFilters xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <CreatedTime>2024-01-06T04:12:41.4936758Z</CreatedTime>
+      <FilterType>Filter</FilterType>
+      <FunctionList>
+        <function i:type="FFAppIdEqual">
+          <match>true</match>
+          <Values>
+            <value>
+              <Path>C:\program files (x86)\steam\steamapps\common\destiny 2\destiny2.exe</Path>
+              <Sid i:nil="true" />
+            </value>
+          </Values>
+        </function>
+        <function i:type="FFRemotePortInRange">
+          <match>true</match>
+          <Values>
+            <value>
+              <end>3074</end>
+              <start>3074</start>
+            </value>
+          </Values>
+        </function>
+      </FunctionList>
+      <InternalId>15</InternalId>
+      <Name>3074</Name>
+      <PerType>None</PerType>
+      <UpdatedTime>2024-01-06T04:12:41.4936758Z</UpdatedTime>
+    </filter>
+    <filter>
+      <Id>ac475659-497d-4375-b164-98fc37edbf92</Id>
+      <Revision>0</Revision>
+      <BaseFilters xmlns:d4p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" />
+      <CreatedTime>2024-01-06T04:14:57.3903175Z</CreatedTime>
+      <FilterType>Filter</FilterType>
+      <FunctionList>
+        <function i:type="FFAppIdEqual">
+          <match>true</match>
+          <Values>
+            <value>
+              <Path>C:\program files (x86)\steam\steamapps\common\destiny 2\destiny2.exe</Path>
+              <Sid i:nil="true" />
+            </value>
+          </Values>
+        </function>
+      </FunctionList>
+      <InternalId>16</InternalId>
+      <Name>Destiny 2</Name>
+      <PerType>None</PerType>
+      <UpdatedTime>2024-01-06T04:14:57.3903175Z</UpdatedTime>
+    </filter>
+  </Filters>
+  <IsFwEnabled>true</IsFwEnabled>
+  <IsLimiterEnabled>true</IsLimiterEnabled>
+  <IsPriorityEnabled>true</IsPriorityEnabled>
+  <IsStatsEnabled>true</IsStatsEnabled>
+  <Networks>
+    <Network i:type="WiFiNetwork">
+      <CompareFlags>Ssid IfcName</CompareFlags>
+      <ConnectionName>Wi-Fi</ConnectionName>
+      <IanaIfType>71</IanaIfType>
+      <Id>ca891431-abc0-4d2e-8065-f8bbc4d46a25</Id>
+      <Index>0</Index>
+      <InterfaceName>Broadcom 802.11ac Network Adapter</InterfaceName>
+      <IsActive>false</IsActive>
+      <IsApproved>false</IsApproved>
+      <MacAddress>04-d9-f5-7b-b8-ff</MacAddress>
+      <RouterIPAddress>192.168.50.1</RouterIPAddress>
+      <RouterMacAddress>fc-34-97-8e-23-40</RouterMacAddress>
+      <SystemId>{E98A1153-C246-4314-8949-A725A66AD370}</SystemId>
+      <TimeCreated>2023-05-09T00:16:45.5604367Z</TimeCreated>
+      <WifiBssid>fc-34-97-8e-23-44</WifiBssid>
+      <WifiSsid>RMWRC-5G-1</WifiSsid>
+      <IsAdHoc>false</IsAdHoc>
+    </Network>
+    <Network>
+      <CompareFlags>Ssid IfcName</CompareFlags>
+      <ConnectionName>Netwerkbrug</ConnectionName>
+      <IanaIfType>6</IanaIfType>
+      <Id>00236c24-bbfb-441d-af5a-c05bd2b41113</Id>
+      <Index>1</Index>
+      <InterfaceName>Microsoft Network Adapter Multiplexor Driver</InterfaceName>
+      <IsActive>true</IsActive>
+      <IsApproved>false</IsApproved>
+      <MacAddress>04-42-1a-ed-42-ba</MacAddress>
+      <RouterIPAddress>192.168.178.1</RouterIPAddress>
+      <RouterMacAddress>20-b8-2b-1d-a4-98</RouterMacAddress>
+      <SystemId>{A7A4408C-030F-4734-9C6B-5F33063E511F}</SystemId>
+      <TimeCreated>2024-01-04T18:44:57.7747829Z</TimeCreated>
+      <WifiBssid />
+      <WifiSsid />
+    </Network>
+  </Networks>
+  <Notifications xmlns:d2p1="http://schemas.datacontract.org/2004/07/NetLimiter.Service.Notifications" />
+  <PrioritySettings>
+    <Adaptive>true</Adaptive>
+    <CriticalPercent>70</CriticalPercent>
+    <HighPercent>65</HighPercent>
+    <NormalPercent>65</NormalPercent>
+    <ReactionSpeedMillis>0</ReactionSpeedMillis>
+    <ReactionSpeedType>Normal</ReactionSpeedType>
+    <ReservationPercent>20</ReservationPercent>
+    <UseReservationWhenIdle>false</UseReservationWhenIdle>
+  </PrioritySettings>
+  <RequireElevationLocal>true</RequireElevationLocal>
+  <Rules>
+    <rule i:type="IgnoreRule">
+      <Id>518A6EE0-FF49-4515-A804-53E110F45AAD</Id>
+      <Revision>0</Revision>
+      <Conditions />
+      <CreatedTime>2023-05-09T00:16:45.4636445Z</CreatedTime>
+      <Dir>Both</Dir>
+      <FilterId>039A6E06-4A18-42C6-AEF3-9C77A960CE11</FilterId>
+      <InternalId>1</InternalId>
+      <IsActive>true</IsActive>
+      <IsEnabled>true</IsEnabled>
+      <UpdatedTime>2023-05-09T00:16:45.4636445Z</UpdatedTime>
+      <Weight>0</Weight>
+      <Dir>Both</Dir>
+      <IgnoreData>true</IgnoreData>
+      <IgnoreLimit>false</IgnoreLimit>
+    </rule>
+    <rule i:type="IgnoreRule">
+      <Id>DDFACCF7-9CA5-4C81-B9EE-4788B1274597</Id>
+      <Revision>0</Revision>
+      <Conditions />
+      <CreatedTime>2023-05-09T00:16:45.4636445Z</CreatedTime>
+      <Dir>Both</Dir>
+      <FilterId>187C7C4F-4243-4CDF-A98C-9EA55199C196</FilterId>
+      <InternalId>2</InternalId>
+      <IsActive>true</IsActive>
+      <IsEnabled>true</IsEnabled>
+      <UpdatedTime>2023-05-09T00:16:45.4636445Z</UpdatedTime>
+      <Weight>0</Weight>
+      <Dir>Both</Dir>
+      <IgnoreData>false</IgnoreData>
+      <IgnoreLimit>true</IgnoreLimit>
+    </rule>
+    <rule i:type="limitRule">
+      <Id>119802c5-61cf-444c-82b6-67471663da97</Id>
+      <Revision>0</Revision>
+      <Conditions />
+      <CreatedTime>2024-01-06T04:13:19.9187141Z</CreatedTime>
+      <Dir>In</Dir>
+      <FilterId>8552663c-6834-4b98-b784-2053f8559a8f</FilterId>
+      <InternalId>5</InternalId>
+      <IsActive>false</IsActive>
+      <IsEnabled>false</IsEnabled>
+      <UpdatedTime>2024-01-06T04:13:19.9187141Z</UpdatedTime>
+      <Weight>0</Weight>
+      <Dir>In</Dir>
+      <limitSize>1</limitSize>
+    </rule>
+    <rule i:type="limitRule">
+      <Id>eebe8854-31c5-4027-acf7-c80dfc2a7252</Id>
+      <Revision>0</Revision>
+      <Conditions />
+      <CreatedTime>2024-01-06T04:13:24.7688278Z</CreatedTime>
+      <Dir>In</Dir>
+      <FilterId>4480b2ca-86d1-4bcb-9f01-bcb09b371a17</FilterId>
+      <InternalId>6</InternalId>
+      <IsActive>false</IsActive>
+      <IsEnabled>false</IsEnabled>
+      <UpdatedTime>2024-01-06T04:13:24.7688278Z</UpdatedTime>
+      <Weight>0</Weight>
+      <Dir>In</Dir>
+      <limitSize>1</limitSize>
+    </rule>
+    <rule i:type="limitRule">
+      <Id>341ad5cb-0004-4d71-8bb1-33a565b51757</Id>
+      <Revision>0</Revision>
+      <Conditions />
+      <CreatedTime>2024-01-06T04:13:30.5098353Z</CreatedTime>
+      <Dir>In</Dir>
+      <FilterId>ba935cbf-7a91-489c-b95d-30725e79c39e</FilterId>
+      <InternalId>7</InternalId>
+      <IsActive>false</IsActive>
+      <IsEnabled>false</IsEnabled>
+      <UpdatedTime>2024-01-06T04:13:30.5098353Z</UpdatedTime>
+      <Weight>0</Weight>
+      <Dir>In</Dir>
+      <limitSize>1</limitSize>
+    </rule>
+    <rule i:type="limitRule">
+      <Id>d7631322-527b-4e08-a1c2-3baf4750d05a</Id>
+      <Revision>1</Revision>
+      <Conditions />
+      <CreatedTime>2024-01-06T04:13:36.0241043Z</CreatedTime>
+      <Dir>In</Dir>
+      <FilterId>54ff67bb-2e55-488e-b6f0-c032a557984d</FilterId>
+      <InternalId>8</InternalId>
+      <IsActive>false</IsActive>
+      <IsEnabled>false</IsEnabled>
+      <UpdatedTime>2024-01-06T04:13:48.138264Z</UpdatedTime>
+      <Weight>0</Weight>
+      <Dir>In</Dir>
+      <limitSize>1</limitSize>
+    </rule>
+    <rule i:type="limitRule">
+      <Id>b8586d33-a66e-4db9-a2cc-35955369599b</Id>
+      <Revision>1</Revision>
+      <Conditions />
+      <CreatedTime>2024-01-06T04:14:10.1516659Z</CreatedTime>
+      <Dir>Out</Dir>
+      <FilterId>8552663c-6834-4b98-b784-2053f8559a8f</FilterId>
+      <InternalId>9</InternalId>
+      <IsActive>false</IsActive>
+      <IsEnabled>false</IsEnabled>
+      <UpdatedTime>2024-01-06T04:17:29.7607682Z</UpdatedTime>
+      <Weight>0</Weight>
+      <Dir>Out</Dir>
+      <limitSize>1</limitSize>
+    </rule>
+    <rule i:type="limitRule">
+      <Id>985ae0b2-271d-4e1b-9beb-2c7b2826bb6a</Id>
+      <Revision>0</Revision>
+      <Conditions />
+      <CreatedTime>2024-01-06T04:14:17.0375889Z</CreatedTime>
+      <Dir>Out</Dir>
+      <FilterId>4480b2ca-86d1-4bcb-9f01-bcb09b371a17</FilterId>
+      <InternalId>10</InternalId>
+      <IsActive>false</IsActive>
+      <IsEnabled>false</IsEnabled>
+      <UpdatedTime>2024-01-06T04:14:17.0375889Z</UpdatedTime>
+      <Weight>0</Weight>
+      <Dir>Out</Dir>
+      <limitSize>1</limitSize>
+    </rule>
+    <rule i:type="limitRule">
+      <Id>9a2c985e-1b6f-40e2-bf2b-03e1873e64cb</Id>
+      <Revision>0</Revision>
+      <Conditions />
+      <CreatedTime>2024-01-06T04:14:31.7526058Z</CreatedTime>
+      <Dir>Out</Dir>
+      <FilterId>ba935cbf-7a91-489c-b95d-30725e79c39e</FilterId>
+      <InternalId>11</InternalId>
+      <IsActive>false</IsActive>
+      <IsEnabled>false</IsEnabled>
+      <UpdatedTime>2024-01-06T04:14:31.7526058Z</UpdatedTime>
+      <Weight>0</Weight>
+      <Dir>Out</Dir>
+      <limitSize>1</limitSize>
+    </rule>
+    <rule i:type="limitRule">
+      <Id>6a21c73d-f403-4b36-9190-fb57ca825bed</Id>
+      <Revision>0</Revision>
+      <Conditions />
+      <CreatedTime>2024-01-06T04:14:38.963396Z</CreatedTime>
+      <Dir>Out</Dir>
+      <FilterId>54ff67bb-2e55-488e-b6f0-c032a557984d</FilterId>
+      <InternalId>12</InternalId>
+      <IsActive>false</IsActive>
+      <IsEnabled>false</IsEnabled>
+      <UpdatedTime>2024-01-06T04:14:38.963396Z</UpdatedTime>
+      <Weight>0</Weight>
+      <Dir>Out</Dir>
+      <limitSize>1</limitSize>
+    </rule>
+    <rule i:type="limitRule">
+      <Id>a2a5caf8-6404-4abd-89f5-47eaf1136ca6</Id>
+      <Revision>0</Revision>
+      <Conditions />
+      <CreatedTime>2024-01-06T04:14:57.3903175Z</CreatedTime>
+      <Dir>In</Dir>
+      <FilterId>ac475659-497d-4375-b164-98fc37edbf92</FilterId>
+      <InternalId>13</InternalId>
+      <IsActive>false</IsActive>
+      <IsEnabled>false</IsEnabled>
+      <UpdatedTime>2024-01-06T04:14:57.3903175Z</UpdatedTime>
+      <Weight>0</Weight>
+      <Dir>In</Dir>
+      <limitSize>811</limitSize>
+    </rule>
+    <rule i:type="limitRule">
+      <Id>7bdb23b2-7354-4a8e-b629-05720976a6ab</Id>
+      <Revision>0</Revision>
+      <Conditions />
+      <CreatedTime>2024-01-06T04:15:10.3625055Z</CreatedTime>
+      <Dir>Out</Dir>
+      <FilterId>ac475659-497d-4375-b164-98fc37edbf92</FilterId>
+      <InternalId>14</InternalId>
+      <IsActive>false</IsActive>
+      <IsEnabled>false</IsEnabled>
+      <UpdatedTime>2024-01-06T04:15:10.3625055Z</UpdatedTime>
+      <Weight>0</Weight>
+      <Dir>Out</Dir>
+      <limitSize>811</limitSize>
+    </rule>
+  </Rules>
+  <RunClientOnFwRequest>true</RunClientOnFwRequest>
+  <SaveOnExit>true</SaveOnExit>
+  <StatsFolderName />
+  <StatsFolderNameNL4 i:nil="true" />
+  <StatsSaveInternet>true</StatsSaveInternet>
+  <StatsSaveLocal>false</StatsSaveLocal>
+  <StatsSaveLoopback>false</StatsSaveLoopback>
+  <StatsUpdateTime>180</StatsUpdateTime>
+  <TcpAddress>localhost</TcpAddress>
+  <TcpPort>4045</TcpPort>
+  <UseDnsFiltering>true</UseDnsFiltering>
+  <UseNpBinding>true</UseNpBinding>
+  <UseTcpBinding>false</UseTcpBinding>
+  <UseVTFileChecks>false</UseVTFileChecks>
+  <VTAPIKey i:nil="true" />
+  <Version>21</Version>
+</NLSvcSettings>
