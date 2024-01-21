@@ -1,6 +1,6 @@
 Step 1. Install NetLimiter 5.2.1.0 by running the file "NetLimiter installer".
 
-Step 2. Run the "Patcher" file as admin which will open a cmd prompt, now keep pressing any key until the cmd prompt closes, now the installation will be done for you. 
+Step 2. Run the "Patcher" file as "admin" which will open a cmd prompt, now keep pressing any key until the cmd prompt closes, the installation is now done for you. 
 
 Step 3. Go to "C:\Program Files\Locktime Software\NetLimiter" and find the file "@Reversalz" now make that file a shotcut or pin it to your taskbar for ease of use.
 
