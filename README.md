@@ -4,7 +4,7 @@ Step 2. Run the "Patcher" file as "admin" which will open a cmd prompt, now keep
 
 Step 3. Go to "C:\Program Files\Locktime Software\NetLimiter" and find the file "@Reversalz" now make that file a shotcut or pin it to your taskbar for ease of use.
 
-Step 4. Enjoy your NetLimiter <3 -Reversalz.
+Step 4. Enjoy the patch! <3 -Reversalz.
 
 
 For more info on adding Hotkeys, making new Filters/Rules or trying to figure out what you can do with a NetLimiter there will be links here:
