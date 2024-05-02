@@ -1,3 +1,5 @@
+(THiS MIGHT BECOME BANNABLE IN THE FUTURE)
+
 Step 1. Install NetLimiter 5.2.1.0 by running the file "NetLimiter installer".
 
 Step 2. Run the "Patcher" file as "admin" which will open a cmd prompt, now keep pressing any key until the cmd prompt closes, the installation is now done for you. 
