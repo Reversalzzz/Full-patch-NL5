@@ -1,4 +1,4 @@
-(THiS MIGHT BECOME BANNABLE IN THE FUTURE)
+(THIS MIGHT BECOME BANNABLE IN THE FUTURE SO CHANGE "@Reversalz" IN DNSPY TO ANYTHING ELSE TO STAY SAFE!)
 
 Step 1. Install NetLimiter 5.2.1.0 by running the file "NetLimiter installer".
 
